@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457482135 source:/home/luis/Desktop/tarea/main.c
+	<stdio.h>
+	<stdlib.h>
+

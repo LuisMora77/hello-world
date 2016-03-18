@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457846248 source:/home/luis/Desktop/ejempll/main.c
+	<stdio.h>
+	<stdlib.h>
+
